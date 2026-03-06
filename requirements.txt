@@ -11,4 +11,4 @@ wikipedia>=1.4.0
 lxml>=4.9.0
 python-dotenv>=1.0.0
 pandas>=2.0.0
-plotly>=5.18.0
+plotly==5.24.1
