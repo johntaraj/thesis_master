@@ -2,6 +2,7 @@ streamlit>=1.30.0
 groq>=0.4.0
 spacy>=3.5.0
 scispacy>=0.5.3
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
 textstat>=0.7.3
 wordfreq>=3.0.0
 beautifulsoup4>=4.12.0
